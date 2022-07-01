@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPH4ZrJxzNQfDHW9k9MNv1bAQJIKOVX0X9Hh4Bp+aZ4KrgGVAcY8i8ytL0G3YhSXxLbipvVYg6E4AfyzVXKB0A==",
+  "success": true,
+  "projectFilePath": "/Users/kapi/Desktop/demo/DemoMicroservice/DemoMicroservice.csproj",
+  "expectedPackageFiles": [
+    "/Users/kapi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kapi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kapi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kapi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kapi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kapi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
